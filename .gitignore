@@ -1,0 +1,18 @@
+Face Images/image_[1-9].jpg
+
+Face Images/binary_images/image_[1-9].jpg
+
+Face Images/gesture_images/image_[1-9].jpg
+
+Face Images/face_detected_images/image_[1-9].jpg
+
+Face Images/skeleton_images/image_[1-9].jpg
+
+README.txt
+/.idea/vcs.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/image_preprocessing.iml
+/body_pose_deploy.prototxt
+/hand_pose_deploy.prototxt
+/body_pose_model.pth
+/hand_pose_model.pth
